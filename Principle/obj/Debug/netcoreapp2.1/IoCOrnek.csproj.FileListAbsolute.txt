@@ -1,0 +1,14 @@
+C:\Users\gcifguvercin\source\repos\IoCOrnek\IoCOrnek\bin\Debug\netcoreapp2.1\IoCOrnek.deps.json
+C:\Users\gcifguvercin\source\repos\IoCOrnek\IoCOrnek\bin\Debug\netcoreapp2.1\IoCOrnek.runtimeconfig.json
+C:\Users\gcifguvercin\source\repos\IoCOrnek\IoCOrnek\bin\Debug\netcoreapp2.1\IoCOrnek.runtimeconfig.dev.json
+C:\Users\gcifguvercin\source\repos\IoCOrnek\IoCOrnek\bin\Debug\netcoreapp2.1\IoCOrnek.dll
+C:\Users\gcifguvercin\source\repos\IoCOrnek\IoCOrnek\bin\Debug\netcoreapp2.1\IoCOrnek.pdb
+C:\Users\gcifguvercin\source\repos\IoCOrnek\IoCOrnek\obj\Debug\netcoreapp2.1\IoCOrnek.csprojAssemblyReference.cache
+C:\Users\gcifguvercin\source\repos\IoCOrnek\IoCOrnek\obj\Debug\netcoreapp2.1\IoCOrnek.csproj.CoreCompileInputs.cache
+C:\Users\gcifguvercin\source\repos\IoCOrnek\IoCOrnek\obj\Debug\netcoreapp2.1\IoCOrnek.RazorAssemblyInfo.cache
+C:\Users\gcifguvercin\source\repos\IoCOrnek\IoCOrnek\obj\Debug\netcoreapp2.1\IoCOrnek.RazorAssemblyInfo.cs
+C:\Users\gcifguvercin\source\repos\IoCOrnek\IoCOrnek\obj\Debug\netcoreapp2.1\IoCOrnek.AssemblyInfoInputs.cache
+C:\Users\gcifguvercin\source\repos\IoCOrnek\IoCOrnek\obj\Debug\netcoreapp2.1\IoCOrnek.AssemblyInfo.cs
+C:\Users\gcifguvercin\source\repos\IoCOrnek\IoCOrnek\obj\Debug\netcoreapp2.1\IoCOrnek.RazorTargetAssemblyInfo.cache
+C:\Users\gcifguvercin\source\repos\IoCOrnek\IoCOrnek\obj\Debug\netcoreapp2.1\IoCOrnek.dll
+C:\Users\gcifguvercin\source\repos\IoCOrnek\IoCOrnek\obj\Debug\netcoreapp2.1\IoCOrnek.pdb
